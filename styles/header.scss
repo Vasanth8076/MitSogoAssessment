@@ -1,0 +1,30 @@
+@import './globals.scss';
+
+/**
+  @CreatedBy        : Vasanth Varatharajan
+  @CreatedTime      : December 14 2022
+**/
+
+.header {
+    padding-inline: 0px !important;
+
+}
+
+.icon {
+    background-color: white;
+    width: 100%;
+}
+
+:where(.css-dev-only-do-not-override-26rdvq).ant-layout .ant-layout-header {
+    height: 64px;
+    padding-inline: 0px;
+    color: rgba(0, 0, 0, 0.88);
+    line-height: 64px;
+    background: #001529;
+
+}
+
+.search {
+    background: transparent url('../public/img/search.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}

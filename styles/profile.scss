@@ -1,0 +1,118 @@
+/**
+  @CreatedBy        : Vasanth Varatharajan
+  @CreatedTime      : December 14 2022
+**/
+
+
+
+.ant-card-body {
+    text-align: center
+}
+
+.Avatar-name {
+    font-family: sans-serif;
+    letter-spacing: 0px;
+    color: #505c4d;
+    opacity: 1;
+    
+
+}
+
+.State-Name {
+    text-align: center;
+    font-family: sans-serif;
+    letter-spacing: 0px;
+    color: #43425D;
+    opacity: 0.5;
+}
+
+.Avatar-social {
+    background: #556575 0% 0% no-repeat padding-box;
+    opacity: 0.4;
+}
+
+.Avatar-social:hover {
+    background-color: #556575;
+}
+
+.anticon.anticon-facebook:hover {
+    background-color: #556575;
+
+}
+
+.anticon.anticon-twitter:hover {
+    background-color: #000913;
+
+}
+
+.anticon.anticon-instagram:hover {
+    background-color: #556575;
+
+}
+
+// .anticon.anticon-inkedin:hover {
+//     background-color: #556575;
+
+// }
+
+.border-avatar {
+    background-color: #556575;
+    opacity: 20%;
+}
+
+.Text-user {
+    text-align: left;
+    font-family: Segoe UI;
+    letter-spacing: 0px;
+    color: #4D4F5C;
+    opacity: 1;
+}
+
+// .ant-col .css-dev-only-do-not-override-26rdvq {
+//     margin-right: 237px;
+// }
+
+.list-profile {
+    text-align: justify;
+}
+
+.list-Detail {
+    text-align: left;
+    font-family: sans-serif;
+    letter-spacing: 0px;
+    color: #4D4F5C;
+    opacity: 1;
+    font-size: 12px;
+}
+
+.list-state-detail {
+    text-align: left;
+    font-family: sans-serif;
+    letter-spacing: 0px;
+    color: #43425D;
+    opacity: 0.5;
+    font-size: 9px;
+    
+}
+
+.list-mb-number {
+    margin-right: -87px;
+    font-family: sans-serif;
+    letter-spacing: 0px;
+    color: #43425D;
+    opacity: 0.5;
+    font-size: 9px;
+    
+
+}
+
+
+.chartcard {
+    border-radius: 10px;
+}
+
+.profile-card {
+    height: fit-content;
+    padding-top: 64px;
+
+}

@@ -1,0 +1,269 @@
+/**
+  @CreatedBy        : Vasanth Varatharajan
+  @CreatedTime      : December 14 2022
+**/
+
+@media only screen and (min-width: 300px) and (max-width: 900px) {
+    .trigger {
+        padding: 0 24px;
+        font-size: 18px;
+        line-height: 64px;
+        cursor: pointer;
+    }
+
+    .Search-icon {
+        margin-top: -26%;
+        margin-left: 89%;
+    }
+
+
+    .line-card-profile {
+        padding-left: 4px;
+        margin-left: -211%;
+    }
+
+    .profile-name {
+        display: none;
+    }
+
+    .line-chart-card {
+        margin-top: 161%;
+        margin-left: 7% !important;
+        margin-right: -4%;
+    }
+
+    .doughnutchart-card {
+
+        margin-top: 282%;
+        margin-left: -31% !important;
+        margin-right: 36%;
+    }
+
+    .line-card-video {
+        margin-left: -200% !important;
+        margin-right: 8% !important;
+    }
+
+    .line-card-table {
+        margin-left: 25px !important;
+        margin-top: 377px !important;
+        width: 156% !important;
+    }
+
+    .profile-icon {
+        margin-left: -47%;
+    }
+
+    .notificationbar {
+        text-align: end;
+        margin-bottom: -140%;
+    }
+
+    .profile-downarrow {
+        display: none;
+    }
+
+    .header-profile {
+        float: left;
+        margin-left: 10% !important;
+        margin-top: 15% !important;
+    }
+
+    .search-flow {
+        display: none;
+    }
+
+
+    .logo {
+        top: 26px;
+        left: 20px;
+        width: 74px;
+        height: 18px;
+
+        /* UI Properties */
+        background: transparent url('../public/img/A\ C\ M\ E\ \(2\).png') 0% 0% no-repeat padding-box;
+        opacity: 1;
+
+        display: flex;
+        margin-left: 5%;
+        margin-top: 10%;
+        margin-bottom: 13%;
+    }
+
+
+    :where(.css-dev-only-do-not-override-26rdvq).ant-menu-dark:not(.ant-menu-horizontal) .ant-menu-item-selected {
+        background-color: #43425d;
+    }
+
+    .ant-menu-item-selected {
+        border-left: 3px solid #A3A0FB;
+    }
+
+    .profile-name {
+        float: left;
+        margin-left: 10%
+    }
+
+
+    .header-profile {
+        float: left;
+        margin-left: 10%;
+        margin-top: 4%;
+
+
+    }
+
+    .profile-downarrow {
+
+        float: left;
+        margin-top: 0.5%;
+        margin-left: 3%;
+
+    }
+}
+
+.trigger {
+    padding: 0 24px;
+    font-size: 18px;
+    line-height: 64px;
+    cursor: pointer;
+}
+
+
+.logo {
+    top: 26px;
+    left: 20px;
+    width: 74px;
+    height: 18px;
+
+    /* UI Properties */
+    background: transparent url('../public/img/A\ C\ M\ E\ \(2\).png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+    display: flex;
+    margin-left: 5%;
+    margin-top: 10%;
+    margin-bottom: 13%;
+
+
+}
+
+:where(.css-dev-only-do-not-override-26rdvq).ant-menu-dark:not(.ant-menu-horizontal) .ant-menu-item-selected {
+    background-color: #43425d;
+}
+
+.ant-menu-item-selected {
+    border-left: 3px solid #A3A0FB;
+}
+
+// .Profile-Name {
+//     margin-top: 2%;
+// }
+
+.header-profile {
+    float: left;
+    margin-left: 70%;
+    margin-top: -33%;
+
+
+}
+
+.profile-downarrow {
+
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 3%;
+
+}
+
+.Content-scroll {
+    background: #F5F7FB;
+    height: 100vh;
+    width: 100%;
+    overflow-y: scroll;
+}
+
+.notificationbar {
+    text-align: end;
+}
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////Layout///////////////////////////////
+
+
+.Overview-font {
+    text-align: left;
+    font-family: sans-serif;
+    letter-spacing: 0px;
+    color: #43425D;
+    opacity: 1;
+    font-size: large;
+    margin-left: 29px;
+    margin-top: 11px
+}
+
+.Add-fund-btn {
+    background: #6763E3;
+    border-radius: 6px;
+    opacity: 1;
+    text-align: end;
+}
+
+.Content-top {
+    text-align: end;
+    margin-top: 11px;
+    margin-left: -15px;
+    padding: 2px;
+    margin-right: 4%;
+}
+
+.Add-fund-font {
+    font-size: 14px;
+    color: white;
+}
+
+.add-fund-btn {
+    color: #6763E3;
+    border-radius: 6px;
+    width: max-content;
+    margin-bottom: 12px;
+    height: max-content;
+
+}
+
+.content-below {
+    margin-top: 2%
+}
+
+
+.line-chart-card {
+    margin-left: 47px;
+}
+
+.doughnutchart-card {
+    margin-left: 18px;
+}
+
+.line-card-video {
+
+    margin-right: 27px;
+    margin-top: 41%;
+    margin-left: 10px;
+    padding-left: 35px
+}
+
+.line-card-table {
+    margin-left: 48px;
+    margin-top: -64px;
+    width: 98%;
+}
+
+.line-card-profile {
+    margin-right: 22px;
+}
+
+
+.user-name {
+    float: left;
+    margin-left: 10%;
+}
